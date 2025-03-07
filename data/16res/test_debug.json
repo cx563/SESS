@@ -1,0 +1,2365 @@
+[
+  {
+    "entities": [
+      {
+        "type": "target",
+        "start": 6,
+        "end": 7
+      },
+      {
+        "type": "opinion",
+        "start": 9,
+        "end": 10
+      }
+    ],
+    "sentiments": [
+      {
+        "type": "NEGATIVE",
+        "head": 0,
+        "tail": 1
+      }
+    ],
+    "pos": [
+      [
+        "However",
+        "RB"
+      ],
+      [
+        ",",
+        ","
+      ],
+      [
+        "I",
+        "PRP"
+      ],
+      [
+        "can",
+        "MD"
+      ],
+      [
+        "refute",
+        "VB"
+      ],
+      [
+        "that",
+        "DT"
+      ],
+      [
+        "OSX",
+        "NNP"
+      ],
+      [
+        "is",
+        "VBZ"
+      ],
+      [
+        "FAST",
+        "JJ"
+      ],
+      [
+        "''",
+        "''"
+      ],
+      [
+        ".",
+        "."
+      ]
+    ],
+    "orig_id": "1004293:42",
+    "tokens": [
+      "However",
+      ",",
+      "I",
+      "can",
+      "refute",
+      "that",
+      "OSX",
+      "is",
+      "``",
+      "FAST",
+      "''",
+      "."
+    ],
+    "dependency": [
+      [
+        "ROOT",
+        0,
+        5
+      ],
+      [
+        "advmod",
+        5,
+        1
+      ],
+      [
+        "punct",
+        5,
+        2
+      ],
+      [
+        "nsubj",
+        5,
+        3
+      ],
+      [
+        "aux",
+        5,
+        4
+      ],
+      [
+        "mark",
+        9,
+        6
+      ],
+      [
+        "nsubj",
+        9,
+        7
+      ],
+      [
+        "cop",
+        9,
+        8
+      ],
+      [
+        "ccomp",
+        5,
+        9
+      ],
+      [
+        "punct",
+        9,
+        10
+      ],
+      [
+        "punct",
+        5,
+        11
+      ]
+    ]
+  },
+  {
+    "entities": [
+      {
+        "type": "target",
+        "start": 6,
+        "end": 7
+      },
+      {
+        "type": "opinion",
+        "start": 9,
+        "end": 10
+      }
+    ],
+    "sentiments": [
+      {
+        "type": "NEGATIVE",
+        "head": 0,
+        "tail": 1
+      }
+    ],
+    "pos": [
+      [
+        "However",
+        "RB"
+      ],
+      [
+        ",",
+        ","
+      ],
+      [
+        "I",
+        "PRP"
+      ],
+      [
+        "can",
+        "MD"
+      ],
+      [
+        "refute",
+        "VB"
+      ],
+      [
+        "that",
+        "DT"
+      ],
+      [
+        "OSX",
+        "NNP"
+      ],
+      [
+        "is",
+        "VBZ"
+      ],
+      [
+        "FAST",
+        "JJ"
+      ],
+      [
+        "''",
+        "''"
+      ],
+      [
+        ".",
+        "."
+      ]
+    ],
+    "orig_id": "1004293:42",
+    "tokens": [
+      "However",
+      ",",
+      "I",
+      "can",
+      "refute",
+      "that",
+      "OSX",
+      "is",
+      "``",
+      "FAST",
+      "''",
+      "."
+    ],
+    "dependency": [
+      [
+        "ROOT",
+        0,
+        5
+      ],
+      [
+        "advmod",
+        5,
+        1
+      ],
+      [
+        "punct",
+        5,
+        2
+      ],
+      [
+        "nsubj",
+        5,
+        3
+      ],
+      [
+        "aux",
+        5,
+        4
+      ],
+      [
+        "mark",
+        9,
+        6
+      ],
+      [
+        "nsubj",
+        9,
+        7
+      ],
+      [
+        "cop",
+        9,
+        8
+      ],
+      [
+        "ccomp",
+        5,
+        9
+      ],
+      [
+        "punct",
+        9,
+        10
+      ],
+      [
+        "punct",
+        5,
+        11
+      ]
+    ]
+  },
+  {
+    "entities": [
+      {
+        "type": "target",
+        "start": 6,
+        "end": 7
+      },
+      {
+        "type": "opinion",
+        "start": 9,
+        "end": 10
+      }
+    ],
+    "sentiments": [
+      {
+        "type": "NEGATIVE",
+        "head": 0,
+        "tail": 1
+      }
+    ],
+    "pos": [
+      [
+        "However",
+        "RB"
+      ],
+      [
+        ",",
+        ","
+      ],
+      [
+        "I",
+        "PRP"
+      ],
+      [
+        "can",
+        "MD"
+      ],
+      [
+        "refute",
+        "VB"
+      ],
+      [
+        "that",
+        "DT"
+      ],
+      [
+        "OSX",
+        "NNP"
+      ],
+      [
+        "is",
+        "VBZ"
+      ],
+      [
+        "FAST",
+        "JJ"
+      ],
+      [
+        "''",
+        "''"
+      ],
+      [
+        ".",
+        "."
+      ]
+    ],
+    "orig_id": "1004293:42",
+    "tokens": [
+      "However",
+      ",",
+      "I",
+      "can",
+      "refute",
+      "that",
+      "OSX",
+      "is",
+      "``",
+      "FAST",
+      "''",
+      "."
+    ],
+    "dependency": [
+      [
+        "ROOT",
+        0,
+        5
+      ],
+      [
+        "advmod",
+        5,
+        1
+      ],
+      [
+        "punct",
+        5,
+        2
+      ],
+      [
+        "nsubj",
+        5,
+        3
+      ],
+      [
+        "aux",
+        5,
+        4
+      ],
+      [
+        "mark",
+        9,
+        6
+      ],
+      [
+        "nsubj",
+        9,
+        7
+      ],
+      [
+        "cop",
+        9,
+        8
+      ],
+      [
+        "ccomp",
+        5,
+        9
+      ],
+      [
+        "punct",
+        9,
+        10
+      ],
+      [
+        "punct",
+        5,
+        11
+      ]
+    ]
+  },
+  {
+    "entities": [
+      {
+        "type": "target",
+        "start": 6,
+        "end": 7
+      },
+      {
+        "type": "opinion",
+        "start": 9,
+        "end": 10
+      }
+    ],
+    "sentiments": [
+      {
+        "type": "NEGATIVE",
+        "head": 0,
+        "tail": 1
+      }
+    ],
+    "pos": [
+      [
+        "However",
+        "RB"
+      ],
+      [
+        ",",
+        ","
+      ],
+      [
+        "I",
+        "PRP"
+      ],
+      [
+        "can",
+        "MD"
+      ],
+      [
+        "refute",
+        "VB"
+      ],
+      [
+        "that",
+        "DT"
+      ],
+      [
+        "OSX",
+        "NNP"
+      ],
+      [
+        "is",
+        "VBZ"
+      ],
+      [
+        "FAST",
+        "JJ"
+      ],
+      [
+        "''",
+        "''"
+      ],
+      [
+        ".",
+        "."
+      ]
+    ],
+    "orig_id": "1004293:42",
+    "tokens": [
+      "However",
+      ",",
+      "I",
+      "can",
+      "refute",
+      "that",
+      "OSX",
+      "is",
+      "``",
+      "FAST",
+      "''",
+      "."
+    ],
+    "dependency": [
+      [
+        "ROOT",
+        0,
+        5
+      ],
+      [
+        "advmod",
+        5,
+        1
+      ],
+      [
+        "punct",
+        5,
+        2
+      ],
+      [
+        "nsubj",
+        5,
+        3
+      ],
+      [
+        "aux",
+        5,
+        4
+      ],
+      [
+        "mark",
+        9,
+        6
+      ],
+      [
+        "nsubj",
+        9,
+        7
+      ],
+      [
+        "cop",
+        9,
+        8
+      ],
+      [
+        "ccomp",
+        5,
+        9
+      ],
+      [
+        "punct",
+        9,
+        10
+      ],
+      [
+        "punct",
+        5,
+        11
+      ]
+    ]
+  },
+  {
+    "entities": [
+      {
+        "type": "target",
+        "start": 6,
+        "end": 7
+      },
+      {
+        "type": "opinion",
+        "start": 9,
+        "end": 10
+      }
+    ],
+    "sentiments": [
+      {
+        "type": "NEGATIVE",
+        "head": 0,
+        "tail": 1
+      }
+    ],
+    "pos": [
+      [
+        "However",
+        "RB"
+      ],
+      [
+        ",",
+        ","
+      ],
+      [
+        "I",
+        "PRP"
+      ],
+      [
+        "can",
+        "MD"
+      ],
+      [
+        "refute",
+        "VB"
+      ],
+      [
+        "that",
+        "DT"
+      ],
+      [
+        "OSX",
+        "NNP"
+      ],
+      [
+        "is",
+        "VBZ"
+      ],
+      [
+        "FAST",
+        "JJ"
+      ],
+      [
+        "''",
+        "''"
+      ],
+      [
+        ".",
+        "."
+      ]
+    ],
+    "orig_id": "1004293:42",
+    "tokens": [
+      "However",
+      ",",
+      "I",
+      "can",
+      "refute",
+      "that",
+      "OSX",
+      "is",
+      "``",
+      "FAST",
+      "''",
+      "."
+    ],
+    "dependency": [
+      [
+        "ROOT",
+        0,
+        5
+      ],
+      [
+        "advmod",
+        5,
+        1
+      ],
+      [
+        "punct",
+        5,
+        2
+      ],
+      [
+        "nsubj",
+        5,
+        3
+      ],
+      [
+        "aux",
+        5,
+        4
+      ],
+      [
+        "mark",
+        9,
+        6
+      ],
+      [
+        "nsubj",
+        9,
+        7
+      ],
+      [
+        "cop",
+        9,
+        8
+      ],
+      [
+        "ccomp",
+        5,
+        9
+      ],
+      [
+        "punct",
+        9,
+        10
+      ],
+      [
+        "punct",
+        5,
+        11
+      ]
+    ]
+  },
+  {
+    "entities": [
+      {
+        "type": "target",
+        "start": 6,
+        "end": 7
+      },
+      {
+        "type": "opinion",
+        "start": 9,
+        "end": 10
+      }
+    ],
+    "sentiments": [
+      {
+        "type": "NEGATIVE",
+        "head": 0,
+        "tail": 1
+      }
+    ],
+    "pos": [
+      [
+        "However",
+        "RB"
+      ],
+      [
+        ",",
+        ","
+      ],
+      [
+        "I",
+        "PRP"
+      ],
+      [
+        "can",
+        "MD"
+      ],
+      [
+        "refute",
+        "VB"
+      ],
+      [
+        "that",
+        "DT"
+      ],
+      [
+        "OSX",
+        "NNP"
+      ],
+      [
+        "is",
+        "VBZ"
+      ],
+      [
+        "FAST",
+        "JJ"
+      ],
+      [
+        "''",
+        "''"
+      ],
+      [
+        ".",
+        "."
+      ]
+    ],
+    "orig_id": "1004293:42",
+    "tokens": [
+      "However",
+      ",",
+      "I",
+      "can",
+      "refute",
+      "that",
+      "OSX",
+      "is",
+      "``",
+      "FAST",
+      "''",
+      "."
+    ],
+    "dependency": [
+      [
+        "ROOT",
+        0,
+        5
+      ],
+      [
+        "advmod",
+        5,
+        1
+      ],
+      [
+        "punct",
+        5,
+        2
+      ],
+      [
+        "nsubj",
+        5,
+        3
+      ],
+      [
+        "aux",
+        5,
+        4
+      ],
+      [
+        "mark",
+        9,
+        6
+      ],
+      [
+        "nsubj",
+        9,
+        7
+      ],
+      [
+        "cop",
+        9,
+        8
+      ],
+      [
+        "ccomp",
+        5,
+        9
+      ],
+      [
+        "punct",
+        9,
+        10
+      ],
+      [
+        "punct",
+        5,
+        11
+      ]
+    ]
+  },
+  {
+    "entities": [
+      {
+        "type": "target",
+        "start": 6,
+        "end": 7
+      },
+      {
+        "type": "opinion",
+        "start": 9,
+        "end": 10
+      }
+    ],
+    "sentiments": [
+      {
+        "type": "NEGATIVE",
+        "head": 0,
+        "tail": 1
+      }
+    ],
+    "pos": [
+      [
+        "However",
+        "RB"
+      ],
+      [
+        ",",
+        ","
+      ],
+      [
+        "I",
+        "PRP"
+      ],
+      [
+        "can",
+        "MD"
+      ],
+      [
+        "refute",
+        "VB"
+      ],
+      [
+        "that",
+        "DT"
+      ],
+      [
+        "OSX",
+        "NNP"
+      ],
+      [
+        "is",
+        "VBZ"
+      ],
+      [
+        "FAST",
+        "JJ"
+      ],
+      [
+        "''",
+        "''"
+      ],
+      [
+        ".",
+        "."
+      ]
+    ],
+    "orig_id": "1004293:42",
+    "tokens": [
+      "However",
+      ",",
+      "I",
+      "can",
+      "refute",
+      "that",
+      "OSX",
+      "is",
+      "``",
+      "FAST",
+      "''",
+      "."
+    ],
+    "dependency": [
+      [
+        "ROOT",
+        0,
+        5
+      ],
+      [
+        "advmod",
+        5,
+        1
+      ],
+      [
+        "punct",
+        5,
+        2
+      ],
+      [
+        "nsubj",
+        5,
+        3
+      ],
+      [
+        "aux",
+        5,
+        4
+      ],
+      [
+        "mark",
+        9,
+        6
+      ],
+      [
+        "nsubj",
+        9,
+        7
+      ],
+      [
+        "cop",
+        9,
+        8
+      ],
+      [
+        "ccomp",
+        5,
+        9
+      ],
+      [
+        "punct",
+        9,
+        10
+      ],
+      [
+        "punct",
+        5,
+        11
+      ]
+    ]
+  },
+  {
+    "entities": [
+      {
+        "type": "target",
+        "start": 6,
+        "end": 7
+      },
+      {
+        "type": "opinion",
+        "start": 9,
+        "end": 10
+      }
+    ],
+    "sentiments": [
+      {
+        "type": "NEGATIVE",
+        "head": 0,
+        "tail": 1
+      }
+    ],
+    "pos": [
+      [
+        "However",
+        "RB"
+      ],
+      [
+        ",",
+        ","
+      ],
+      [
+        "I",
+        "PRP"
+      ],
+      [
+        "can",
+        "MD"
+      ],
+      [
+        "refute",
+        "VB"
+      ],
+      [
+        "that",
+        "DT"
+      ],
+      [
+        "OSX",
+        "NNP"
+      ],
+      [
+        "is",
+        "VBZ"
+      ],
+      [
+        "FAST",
+        "JJ"
+      ],
+      [
+        "''",
+        "''"
+      ],
+      [
+        ".",
+        "."
+      ]
+    ],
+    "orig_id": "1004293:42",
+    "tokens": [
+      "However",
+      ",",
+      "I",
+      "can",
+      "refute",
+      "that",
+      "OSX",
+      "is",
+      "``",
+      "FAST",
+      "''",
+      "."
+    ],
+    "dependency": [
+      [
+        "ROOT",
+        0,
+        5
+      ],
+      [
+        "advmod",
+        5,
+        1
+      ],
+      [
+        "punct",
+        5,
+        2
+      ],
+      [
+        "nsubj",
+        5,
+        3
+      ],
+      [
+        "aux",
+        5,
+        4
+      ],
+      [
+        "mark",
+        9,
+        6
+      ],
+      [
+        "nsubj",
+        9,
+        7
+      ],
+      [
+        "cop",
+        9,
+        8
+      ],
+      [
+        "ccomp",
+        5,
+        9
+      ],
+      [
+        "punct",
+        9,
+        10
+      ],
+      [
+        "punct",
+        5,
+        11
+      ]
+    ]
+  },
+  {
+    "entities": [
+      {
+        "type": "target",
+        "start": 6,
+        "end": 7
+      },
+      {
+        "type": "opinion",
+        "start": 9,
+        "end": 10
+      }
+    ],
+    "sentiments": [
+      {
+        "type": "NEGATIVE",
+        "head": 0,
+        "tail": 1
+      }
+    ],
+    "pos": [
+      [
+        "However",
+        "RB"
+      ],
+      [
+        ",",
+        ","
+      ],
+      [
+        "I",
+        "PRP"
+      ],
+      [
+        "can",
+        "MD"
+      ],
+      [
+        "refute",
+        "VB"
+      ],
+      [
+        "that",
+        "DT"
+      ],
+      [
+        "OSX",
+        "NNP"
+      ],
+      [
+        "is",
+        "VBZ"
+      ],
+      [
+        "FAST",
+        "JJ"
+      ],
+      [
+        "''",
+        "''"
+      ],
+      [
+        ".",
+        "."
+      ]
+    ],
+    "orig_id": "1004293:42",
+    "tokens": [
+      "However",
+      ",",
+      "I",
+      "can",
+      "refute",
+      "that",
+      "OSX",
+      "is",
+      "``",
+      "FAST",
+      "''",
+      "."
+    ],
+    "dependency": [
+      [
+        "ROOT",
+        0,
+        5
+      ],
+      [
+        "advmod",
+        5,
+        1
+      ],
+      [
+        "punct",
+        5,
+        2
+      ],
+      [
+        "nsubj",
+        5,
+        3
+      ],
+      [
+        "aux",
+        5,
+        4
+      ],
+      [
+        "mark",
+        9,
+        6
+      ],
+      [
+        "nsubj",
+        9,
+        7
+      ],
+      [
+        "cop",
+        9,
+        8
+      ],
+      [
+        "ccomp",
+        5,
+        9
+      ],
+      [
+        "punct",
+        9,
+        10
+      ],
+      [
+        "punct",
+        5,
+        11
+      ]
+    ]
+  },
+  {
+    "entities": [
+      {
+        "type": "target",
+        "start": 6,
+        "end": 7
+      },
+      {
+        "type": "opinion",
+        "start": 9,
+        "end": 10
+      }
+    ],
+    "sentiments": [
+      {
+        "type": "NEGATIVE",
+        "head": 0,
+        "tail": 1
+      }
+    ],
+    "pos": [
+      [
+        "However",
+        "RB"
+      ],
+      [
+        ",",
+        ","
+      ],
+      [
+        "I",
+        "PRP"
+      ],
+      [
+        "can",
+        "MD"
+      ],
+      [
+        "refute",
+        "VB"
+      ],
+      [
+        "that",
+        "DT"
+      ],
+      [
+        "OSX",
+        "NNP"
+      ],
+      [
+        "is",
+        "VBZ"
+      ],
+      [
+        "FAST",
+        "JJ"
+      ],
+      [
+        "''",
+        "''"
+      ],
+      [
+        ".",
+        "."
+      ]
+    ],
+    "orig_id": "1004293:42",
+    "tokens": [
+      "However",
+      ",",
+      "I",
+      "can",
+      "refute",
+      "that",
+      "OSX",
+      "is",
+      "``",
+      "FAST",
+      "''",
+      "."
+    ],
+    "dependency": [
+      [
+        "ROOT",
+        0,
+        5
+      ],
+      [
+        "advmod",
+        5,
+        1
+      ],
+      [
+        "punct",
+        5,
+        2
+      ],
+      [
+        "nsubj",
+        5,
+        3
+      ],
+      [
+        "aux",
+        5,
+        4
+      ],
+      [
+        "mark",
+        9,
+        6
+      ],
+      [
+        "nsubj",
+        9,
+        7
+      ],
+      [
+        "cop",
+        9,
+        8
+      ],
+      [
+        "ccomp",
+        5,
+        9
+      ],
+      [
+        "punct",
+        9,
+        10
+      ],
+      [
+        "punct",
+        5,
+        11
+      ]
+    ]
+  },
+  {
+    "entities": [
+      {
+        "type": "target",
+        "start": 6,
+        "end": 7
+      },
+      {
+        "type": "opinion",
+        "start": 9,
+        "end": 10
+      }
+    ],
+    "sentiments": [
+      {
+        "type": "NEGATIVE",
+        "head": 0,
+        "tail": 1
+      }
+    ],
+    "pos": [
+      [
+        "However",
+        "RB"
+      ],
+      [
+        ",",
+        ","
+      ],
+      [
+        "I",
+        "PRP"
+      ],
+      [
+        "can",
+        "MD"
+      ],
+      [
+        "refute",
+        "VB"
+      ],
+      [
+        "that",
+        "DT"
+      ],
+      [
+        "OSX",
+        "NNP"
+      ],
+      [
+        "is",
+        "VBZ"
+      ],
+      [
+        "FAST",
+        "JJ"
+      ],
+      [
+        "''",
+        "''"
+      ],
+      [
+        ".",
+        "."
+      ]
+    ],
+    "orig_id": "1004293:42",
+    "tokens": [
+      "However",
+      ",",
+      "I",
+      "can",
+      "refute",
+      "that",
+      "OSX",
+      "is",
+      "``",
+      "FAST",
+      "''",
+      "."
+    ],
+    "dependency": [
+      [
+        "ROOT",
+        0,
+        5
+      ],
+      [
+        "advmod",
+        5,
+        1
+      ],
+      [
+        "punct",
+        5,
+        2
+      ],
+      [
+        "nsubj",
+        5,
+        3
+      ],
+      [
+        "aux",
+        5,
+        4
+      ],
+      [
+        "mark",
+        9,
+        6
+      ],
+      [
+        "nsubj",
+        9,
+        7
+      ],
+      [
+        "cop",
+        9,
+        8
+      ],
+      [
+        "ccomp",
+        5,
+        9
+      ],
+      [
+        "punct",
+        9,
+        10
+      ],
+      [
+        "punct",
+        5,
+        11
+      ]
+    ]
+  },
+  {
+    "entities": [
+      {
+        "type": "target",
+        "start": 6,
+        "end": 7
+      },
+      {
+        "type": "opinion",
+        "start": 9,
+        "end": 10
+      }
+    ],
+    "sentiments": [
+      {
+        "type": "NEGATIVE",
+        "head": 0,
+        "tail": 1
+      }
+    ],
+    "pos": [
+      [
+        "However",
+        "RB"
+      ],
+      [
+        ",",
+        ","
+      ],
+      [
+        "I",
+        "PRP"
+      ],
+      [
+        "can",
+        "MD"
+      ],
+      [
+        "refute",
+        "VB"
+      ],
+      [
+        "that",
+        "DT"
+      ],
+      [
+        "OSX",
+        "NNP"
+      ],
+      [
+        "is",
+        "VBZ"
+      ],
+      [
+        "FAST",
+        "JJ"
+      ],
+      [
+        "''",
+        "''"
+      ],
+      [
+        ".",
+        "."
+      ]
+    ],
+    "orig_id": "1004293:42",
+    "tokens": [
+      "However",
+      ",",
+      "I",
+      "can",
+      "refute",
+      "that",
+      "OSX",
+      "is",
+      "``",
+      "FAST",
+      "''",
+      "."
+    ],
+    "dependency": [
+      [
+        "ROOT",
+        0,
+        5
+      ],
+      [
+        "advmod",
+        5,
+        1
+      ],
+      [
+        "punct",
+        5,
+        2
+      ],
+      [
+        "nsubj",
+        5,
+        3
+      ],
+      [
+        "aux",
+        5,
+        4
+      ],
+      [
+        "mark",
+        9,
+        6
+      ],
+      [
+        "nsubj",
+        9,
+        7
+      ],
+      [
+        "cop",
+        9,
+        8
+      ],
+      [
+        "ccomp",
+        5,
+        9
+      ],
+      [
+        "punct",
+        9,
+        10
+      ],
+      [
+        "punct",
+        5,
+        11
+      ]
+    ]
+  },
+  {
+    "entities": [
+      {
+        "type": "target",
+        "start": 6,
+        "end": 7
+      },
+      {
+        "type": "opinion",
+        "start": 9,
+        "end": 10
+      }
+    ],
+    "sentiments": [
+      {
+        "type": "NEGATIVE",
+        "head": 0,
+        "tail": 1
+      }
+    ],
+    "pos": [
+      [
+        "However",
+        "RB"
+      ],
+      [
+        ",",
+        ","
+      ],
+      [
+        "I",
+        "PRP"
+      ],
+      [
+        "can",
+        "MD"
+      ],
+      [
+        "refute",
+        "VB"
+      ],
+      [
+        "that",
+        "DT"
+      ],
+      [
+        "OSX",
+        "NNP"
+      ],
+      [
+        "is",
+        "VBZ"
+      ],
+      [
+        "FAST",
+        "JJ"
+      ],
+      [
+        "''",
+        "''"
+      ],
+      [
+        ".",
+        "."
+      ]
+    ],
+    "orig_id": "1004293:42",
+    "tokens": [
+      "However",
+      ",",
+      "I",
+      "can",
+      "refute",
+      "that",
+      "OSX",
+      "is",
+      "``",
+      "FAST",
+      "''",
+      "."
+    ],
+    "dependency": [
+      [
+        "ROOT",
+        0,
+        5
+      ],
+      [
+        "advmod",
+        5,
+        1
+      ],
+      [
+        "punct",
+        5,
+        2
+      ],
+      [
+        "nsubj",
+        5,
+        3
+      ],
+      [
+        "aux",
+        5,
+        4
+      ],
+      [
+        "mark",
+        9,
+        6
+      ],
+      [
+        "nsubj",
+        9,
+        7
+      ],
+      [
+        "cop",
+        9,
+        8
+      ],
+      [
+        "ccomp",
+        5,
+        9
+      ],
+      [
+        "punct",
+        9,
+        10
+      ],
+      [
+        "punct",
+        5,
+        11
+      ]
+    ]
+  },
+  {
+    "entities": [
+      {
+        "type": "target",
+        "start": 6,
+        "end": 7
+      },
+      {
+        "type": "opinion",
+        "start": 9,
+        "end": 10
+      }
+    ],
+    "sentiments": [
+      {
+        "type": "NEGATIVE",
+        "head": 0,
+        "tail": 1
+      }
+    ],
+    "pos": [
+      [
+        "However",
+        "RB"
+      ],
+      [
+        ",",
+        ","
+      ],
+      [
+        "I",
+        "PRP"
+      ],
+      [
+        "can",
+        "MD"
+      ],
+      [
+        "refute",
+        "VB"
+      ],
+      [
+        "that",
+        "DT"
+      ],
+      [
+        "OSX",
+        "NNP"
+      ],
+      [
+        "is",
+        "VBZ"
+      ],
+      [
+        "FAST",
+        "JJ"
+      ],
+      [
+        "''",
+        "''"
+      ],
+      [
+        ".",
+        "."
+      ]
+    ],
+    "orig_id": "1004293:42",
+    "tokens": [
+      "However",
+      ",",
+      "I",
+      "can",
+      "refute",
+      "that",
+      "OSX",
+      "is",
+      "``",
+      "FAST",
+      "''",
+      "."
+    ],
+    "dependency": [
+      [
+        "ROOT",
+        0,
+        5
+      ],
+      [
+        "advmod",
+        5,
+        1
+      ],
+      [
+        "punct",
+        5,
+        2
+      ],
+      [
+        "nsubj",
+        5,
+        3
+      ],
+      [
+        "aux",
+        5,
+        4
+      ],
+      [
+        "mark",
+        9,
+        6
+      ],
+      [
+        "nsubj",
+        9,
+        7
+      ],
+      [
+        "cop",
+        9,
+        8
+      ],
+      [
+        "ccomp",
+        5,
+        9
+      ],
+      [
+        "punct",
+        9,
+        10
+      ],
+      [
+        "punct",
+        5,
+        11
+      ]
+    ]
+  },
+  {
+    "entities": [
+      {
+        "type": "target",
+        "start": 6,
+        "end": 7
+      },
+      {
+        "type": "opinion",
+        "start": 9,
+        "end": 10
+      }
+    ],
+    "sentiments": [
+      {
+        "type": "NEGATIVE",
+        "head": 0,
+        "tail": 1
+      }
+    ],
+    "pos": [
+      [
+        "However",
+        "RB"
+      ],
+      [
+        ",",
+        ","
+      ],
+      [
+        "I",
+        "PRP"
+      ],
+      [
+        "can",
+        "MD"
+      ],
+      [
+        "refute",
+        "VB"
+      ],
+      [
+        "that",
+        "DT"
+      ],
+      [
+        "OSX",
+        "NNP"
+      ],
+      [
+        "is",
+        "VBZ"
+      ],
+      [
+        "FAST",
+        "JJ"
+      ],
+      [
+        "''",
+        "''"
+      ],
+      [
+        ".",
+        "."
+      ]
+    ],
+    "orig_id": "1004293:42",
+    "tokens": [
+      "However",
+      ",",
+      "I",
+      "can",
+      "refute",
+      "that",
+      "OSX",
+      "is",
+      "``",
+      "FAST",
+      "''",
+      "."
+    ],
+    "dependency": [
+      [
+        "ROOT",
+        0,
+        5
+      ],
+      [
+        "advmod",
+        5,
+        1
+      ],
+      [
+        "punct",
+        5,
+        2
+      ],
+      [
+        "nsubj",
+        5,
+        3
+      ],
+      [
+        "aux",
+        5,
+        4
+      ],
+      [
+        "mark",
+        9,
+        6
+      ],
+      [
+        "nsubj",
+        9,
+        7
+      ],
+      [
+        "cop",
+        9,
+        8
+      ],
+      [
+        "ccomp",
+        5,
+        9
+      ],
+      [
+        "punct",
+        9,
+        10
+      ],
+      [
+        "punct",
+        5,
+        11
+      ]
+    ]
+  },
+  {
+    "entities": [
+      {
+        "type": "target",
+        "start": 6,
+        "end": 7
+      },
+      {
+        "type": "opinion",
+        "start": 9,
+        "end": 10
+      }
+    ],
+    "sentiments": [
+      {
+        "type": "NEGATIVE",
+        "head": 0,
+        "tail": 1
+      }
+    ],
+    "pos": [
+      [
+        "However",
+        "RB"
+      ],
+      [
+        ",",
+        ","
+      ],
+      [
+        "I",
+        "PRP"
+      ],
+      [
+        "can",
+        "MD"
+      ],
+      [
+        "refute",
+        "VB"
+      ],
+      [
+        "that",
+        "DT"
+      ],
+      [
+        "OSX",
+        "NNP"
+      ],
+      [
+        "is",
+        "VBZ"
+      ],
+      [
+        "FAST",
+        "JJ"
+      ],
+      [
+        "''",
+        "''"
+      ],
+      [
+        ".",
+        "."
+      ]
+    ],
+    "orig_id": "1004293:42",
+    "tokens": [
+      "However",
+      ",",
+      "I",
+      "can",
+      "refute",
+      "that",
+      "OSX",
+      "is",
+      "``",
+      "FAST",
+      "''",
+      "."
+    ],
+    "dependency": [
+      [
+        "ROOT",
+        0,
+        5
+      ],
+      [
+        "advmod",
+        5,
+        1
+      ],
+      [
+        "punct",
+        5,
+        2
+      ],
+      [
+        "nsubj",
+        5,
+        3
+      ],
+      [
+        "aux",
+        5,
+        4
+      ],
+      [
+        "mark",
+        9,
+        6
+      ],
+      [
+        "nsubj",
+        9,
+        7
+      ],
+      [
+        "cop",
+        9,
+        8
+      ],
+      [
+        "ccomp",
+        5,
+        9
+      ],
+      [
+        "punct",
+        9,
+        10
+      ],
+      [
+        "punct",
+        5,
+        11
+      ]
+    ]
+  },
+  {
+    "entities": [
+      {
+        "type": "target",
+        "start": 6,
+        "end": 7
+      },
+      {
+        "type": "opinion",
+        "start": 9,
+        "end": 10
+      }
+    ],
+    "sentiments": [
+      {
+        "type": "NEGATIVE",
+        "head": 0,
+        "tail": 1
+      }
+    ],
+    "pos": [
+      [
+        "However",
+        "RB"
+      ],
+      [
+        ",",
+        ","
+      ],
+      [
+        "I",
+        "PRP"
+      ],
+      [
+        "can",
+        "MD"
+      ],
+      [
+        "refute",
+        "VB"
+      ],
+      [
+        "that",
+        "DT"
+      ],
+      [
+        "OSX",
+        "NNP"
+      ],
+      [
+        "is",
+        "VBZ"
+      ],
+      [
+        "FAST",
+        "JJ"
+      ],
+      [
+        "''",
+        "''"
+      ],
+      [
+        ".",
+        "."
+      ]
+    ],
+    "orig_id": "1004293:42",
+    "tokens": [
+      "However",
+      ",",
+      "I",
+      "can",
+      "refute",
+      "that",
+      "OSX",
+      "is",
+      "``",
+      "FAST",
+      "''",
+      "."
+    ],
+    "dependency": [
+      [
+        "ROOT",
+        0,
+        5
+      ],
+      [
+        "advmod",
+        5,
+        1
+      ],
+      [
+        "punct",
+        5,
+        2
+      ],
+      [
+        "nsubj",
+        5,
+        3
+      ],
+      [
+        "aux",
+        5,
+        4
+      ],
+      [
+        "mark",
+        9,
+        6
+      ],
+      [
+        "nsubj",
+        9,
+        7
+      ],
+      [
+        "cop",
+        9,
+        8
+      ],
+      [
+        "ccomp",
+        5,
+        9
+      ],
+      [
+        "punct",
+        9,
+        10
+      ],
+      [
+        "punct",
+        5,
+        11
+      ]
+    ]
+  }
+]
